@@ -1,0 +1,31 @@
+body {
+background: rgb(251,63,233);
+background: radial-gradient(circle, rgba(251,63,233,1) 8%, rgba(84,251,227,1) 50%, rgba(89,70,252,1) 97%);
+}
+
+
+h2 {
+    color: gold;
+    text-align: center;
+    font-size: 10px;
+}
+
+h1 {
+    font-family: Courier New;
+    color: Blue;
+    text-align: center;
+}
+
+
+p {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+img {
+    float: center;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
